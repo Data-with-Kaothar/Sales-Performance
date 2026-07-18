@@ -4,6 +4,9 @@
 
 This project presents an interactive **Sales Performance Dashboard** developed in **Power BI** to analyze sales performance across products, retailers, and time. The dashboard provides insights into revenue, profit, profit margin, sales volume, and product performance, enabling stakeholders to identify key business trends and make informed decisions.
 
+To enhance the user experience, the dashboard includes an interactive **Chiclet Slicer** for intuitive filtering, a **search feature** that allows users to quickly locate specific information, and a **GitHub button** embedded within the report, enabling users to access the project's repository directly from the dashboard for documentation and source files.
+
+
 ---
 
 ## Dashboard Preview
@@ -39,9 +42,11 @@ The dashboard was designed to answer the following business questions:
 
 * KPI Cards
 * Clustered Column Chart
+* Clustered Bar Chart
 * Line Chart
 * Ribbon Chart
 * Treemap
+* Chiclet
 
 ---
 
