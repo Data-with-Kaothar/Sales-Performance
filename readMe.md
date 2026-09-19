@@ -1,4 +1,4 @@
-# 📊 Sales Analytics Dashboard
+# 📊 Sales Performance Dashboard
 
 ## Project Overview
 
