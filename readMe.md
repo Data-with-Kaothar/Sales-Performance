@@ -12,7 +12,7 @@ The report was designed to encourage interactive exploration rather than simply 
 
 ## 📸 Dashboard Preview
 
-![Sales Analytics Dashboard](images/dashboard.png)
+![Sales Analytics Dashboard](images/Revenue_Dasboard.png)
 
 *Interactive Power BI dashboard showing revenue, quantity sold, product-line performance, retailer performance, and revenue trends.*
 
